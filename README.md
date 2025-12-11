@@ -1,4 +1,4 @@
-<div style="text-align: center;"><h1 >BetterF3</h1>
+<div style="text-align: center;"><h1 >BetterF3 Modified</h1>
 <br />
 
 [![Version](https://img.shields.io/badge/dynamic/json?color=ed37aa&label=Version&query=%24%5B%27promos%27%5D%5B%271.21.3-latest%27%5D&url=https%3A%2F%2Fapi.modrinth.com%2Fupdates%2Fbetterf3%2Fforge%5Fupdates.json?cacheSeconds=2592000)](https://modrinth.com/mod/betterf3)
