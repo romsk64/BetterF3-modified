@@ -1,11 +1,6 @@
-<div style="text-align: center;"><h1 >BetterF3</h1>
-<br />
+<div style="text-align: center;"><h1 >BetterF3 Modified</h1><br>
 
-[![Version](https://img.shields.io/badge/dynamic/json?color=ed37aa&label=Version&query=%24%5B%27promos%27%5D%5B%271.21.3-latest%27%5D&url=https%3A%2F%2Fapi.modrinth.com%2Fupdates%2Fbetterf3%2Fforge%5Fupdates.json?cacheSeconds=2592000)](https://modrinth.com/mod/betterf3)
-[![Minecraft Versions](https://img.shields.io/badge/Minecraft-1.16.2--1.21.3+-9450cc)](http://files.minecraftforge.net/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-2230f2.svg)](https://github.com/TreyRuffy/BetterF3/blob/architectury/1.21.3/LICENSE.txt)
-<br/>
-[![Twitter: TreyRuffy](https://img.shields.io/twitter/follow/TreyRuffy.svg?style=social)](https://twitter.com/TreyRuffy)
+***Versions: 1.7.10, 1.12.2-1.21.10***
 
 </div>
 
@@ -70,6 +65,12 @@ Each line is part of a Module, you can:
 The latest builds can be found [here](https://github.com/TreyRuffy/BetterF3/actions). <br/>
 
 ## Authors
+
+👤 **romsk64**<br/>
+***Modded this mod, ported mod to old versions***
+* Modrinth: [@romsk64](https://modrinth.com/user/romsk64/)
+* CurseForge: [@romsk64](https://curseforge.com/members/romsk64/)
+* GitHub: [@romsk64](https://github.com/romsk64/)
 
 👤 **TreyRuffy**<br/>
 ***Ported the mod to Forge and Architectury***
